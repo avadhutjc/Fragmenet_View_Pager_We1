@@ -1,0 +1,12 @@
+com/masai/we1/SecondFragment.java
+ com.masai.we1.SecondFragment
+com/masai/we1/BuildConfig.java
+ com.masai.we1.BuildConfig
+com/masai/we1/FirstFragment.java
+ com.masai.we1.FirstFragment
+ com.masai.we1.FirstFragment$1
+com/masai/we1/MainActivity.java
+ com.masai.we1.MainActivity
+ com.masai.we1.MainActivity$1
+com/masai/we1/PagerAdapter.java
+ com.masai.we1.PagerAdapter
